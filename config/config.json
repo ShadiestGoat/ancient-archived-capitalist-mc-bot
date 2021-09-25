@@ -1,0 +1,326 @@
+{
+	"defbanreason": ,
+
+	"formats": [
+		"adios", 
+		"surprised",
+		"unsettled", 
+		"shrug", 
+		"monkey"
+	],
+	"balance": {
+		"checks": {
+		"blocks_broken": ,
+		"blocks_placed": ,
+		"kills_mobs": ,
+		"kills_players": ,
+		"arrows_shot": ,
+		"deaths": ,
+		},
+		"full list of checks, only use this as a reference!!": [
+			"arrows_shot",
+			"blocks_broken",
+			"blocks_placed",
+			"buckets_emptied",
+			"buckets_filled",
+			"damage_taken",
+			"deaths",
+			"distance_travelled",
+			"eggs_thrown",
+			"entered_beds",
+			"food_eaten",
+			"items_caught",
+			"items_crafted",
+			"items_dropped",
+			"items_picked_up",
+			"joins",
+			"kills_mobs",
+			"kills_players",
+			"times_kicked",
+			"THE ONE ABOVE IS UNSTABLE!! DOESNT WORK VERY GOOD!",
+			"times_shorn",
+			"time_played",
+			"the one anove includes afk time!",
+			"tools_broken",
+			"villager_trades",
+			"xp_gained"
+		],
+		"Equation": ,
+	},
+	"shop": {
+		"prices": {
+			"WorkingClass": 0,
+			"RichBoi": 0,
+			"Pasta": 0
+		},
+		"roles": {
+			"WorkingClass": 0,
+			"RichBoi": 0,
+			"Pasta": 0
+		},
+		"MC": {
+			"WorkingClass": ,
+			"RichBoi": ,
+			"Pasta": ,
+		},
+		"Msg": {
+			"WorkingClass": 0,
+			"RichBoi": 0,
+			"Pasta": 0
+		},
+		"emoji id": 0
+
+	},
+
+
+	"mc build": {
+		"Ltheme": [
+			"funhouse", 
+			"modern", 
+			"hay", 
+			"industrial", 
+			"farming", 
+			"blacksmith", 
+			"nether", 
+			"end", 
+			"shrine", 
+			"hell", 
+			"nature", 
+			"desert", 
+			"goat", 
+			"bear", 
+			"murder", 
+			"sea", 
+			"space", 
+			"russia", 
+			"portugal", 
+			"german", 
+			"religion", 
+			"magic", 
+			"robot", 
+			"jung  le", 
+			"time", 
+			"underwater", 
+			"tech", 
+			"ice", 
+			"rune", 
+			"heaven", 
+			"abandoned", 
+			"fire", 
+			"steampunk", 
+			"military", 
+			"wealthy", 
+			"poor"
+		],
+		"Lbuild": [
+			"balloon house", 
+			"outposts",
+			"castle", 
+			"city skyscaper", 
+			"mansion", 
+			"hut", 
+			"house", 
+			"spaceship", 
+			"ufo", 
+			"port", 
+			"observitory", 
+			"prison", 
+			"repair shop", 
+			"school", 
+			"bridge", 
+			"island", 
+			"rocket", 
+			"air balloon", 
+			"clock tower", 
+			"ship", 
+			"volcano", 
+			"lighthouse", 
+			"bunker", 
+			"underwater bunker", 
+			"tree", 
+			"runes", 
+			"farm", 
+			"portal room", 
+			"enchanting room", 
+			"submarine", 
+			"treehouse", 
+			"road"
+		],
+		"Ltime": [
+			"future", 
+			"past", 
+			"medieval times", 
+			"sengoku period", 
+			"far far future", 
+			"war times", 
+			"beggining of time",
+			"end of time"
+		]
+	},
+	"Tasks": {
+		"Claim": ,
+		"Done": ,
+		"Drop": ,
+	},
+	"join roles": [
+		0,
+		0
+	],
+	"jobs": {
+		"application": ,
+	},
+	"Channel IDs": {
+		"Suggestions": 0,
+		"Chat With Bot": 0,
+		"Buy Ranks": 0,
+		"Console": 0,
+		"Server Chat": 0,
+		"Reports": 0,
+		"Poll": 0,
+		"Announcements": 0,
+		"Tasks": 0,
+		"Task Log": 0,
+		"Trial Announcements": 0
+	},
+	"Moderation": {
+		"Warning Title": ,
+		"Warning Description": ,
+		"Bad Word Reason": ,
+		"bad words": [],
+		"Muted Role ID": 0,
+		"Muted Message": ,
+		"Unmuted Message": ,
+		"Poll msg": ,
+		"Default Ban Reason": ,
+	},
+    "Errors": {
+		"Title": ,
+        "Missing an argument": ,
+        "Missing Role": ,
+        "Missing Command": ,
+        "Cooldown": ,
+		"Not Bot Spam": ,
+		"No Trials": ,
+		"No Job": ,
+		"Job Closed": ,
+		"Job Open": ,
+		"Vc Broke": ,
+		"Trial ID bad": ,
+		"Wrong Format": ,
+		"More Songs Shuffle": ,
+		"0-0 needed": ,
+		"Nothing found": ,
+		"Max Vol": ,
+		"Min Vol": ,
+		"EQ error": ,
+		"Queue Empty": ,
+		"Not on VC": ,
+		"Alr DJ": ,
+		"No more DJ": ,
+		"No Private Chan": ,
+		"Bad Code": ,
+    },
+	"InterviewQ": ,
+	"Jclose": ,
+	"Jnotchosen": ,
+	"JaccACC": ,
+	"Help": {
+		"Normal Field": {
+			
+			"<:gavel:0> Moderation": [
+"`warnings (person)`- ",
+"`report <person> <reason>`- ",
+			],
+			":dollar: Balance": [
+"`bal (person)`- ",
+			],
+			":rainbow_flag: Jobs": [
+"`job list`- ",
+"`job apply <job>`- ",
+			],
+			":grin:- ",
+"`fact`- ",
+"`mcbuild`- ",
+"`animal (animal)`- ",
+"`\tanimal list`- ",
+"`quote <link or id>`- ",
+"`inspire`- ",
+"`imgsearch <request>`- ",
+"`meme <template> <text w/ spaces>`- ",
+			]
+
+		},
+
+
+		"Help Staff": {
+			"<:gavel:0> Moderation": [
+				"`warnings (person)`- ",
+				"`warn <person> (reason)`- ",
+				"`report <person> <reason>`- ",
+				"`mute <person>`- ",
+				"`unmute <person>`- ",
+				"`purge <amount>`- ",
+				"`announce <content>`- ",
+				"`kick <person>`- ",
+				"`ban <person> (reason)`- ",
+			],
+			":dollar: Balance": [
+				"`bal (person)`- ",
+			],
+			":bar_chart: Polls": [
+                "`poll question with spaces | Option 0, Option 0, etc`- ",
+				"`ezpoll <question>`- ",
+			],
+			":white_check_mark: Tasks": [
+				"`stask <who> <task>`- ",
+			],
+			":rainbow_flag:- ",
+				"`sjob open <job>`- ",
+				"`sjob close <job>`- ",
+				"`app <accept/deny> <user> <reason>`- ",
+			],
+			"Trials": [
+				"`trial`",
+				"`\tclaim`- ",
+				"`\tstart <id>`- ",
+				"`\tstop <id>`- ",
+			]
+		}
+		
+
+	},
+	"trial messages": {
+		"Claim": {
+			"Title": ,
+			"Description": ,
+			"Legal Notice": ,
+		},
+		"Start": {
+			"Title": ,
+			"Description": ,
+			"Legal Notice": ,
+		},
+		"roles": {
+			"Lawyer": ,
+			"Judge": ,
+			"Defense": ,
+			"Prosecution": 
+		}
+	},
+
+	"status": ,
+
+	"init": {
+		"Guild ID": ,
+		"Staff Role ID": ,
+		"God Role ID": ,
+		"sql login": {
+			"host": ,
+			"user": ,
+			"password": ,
+		},
+		"CAT_API_KEY": ,
+		"DOG_API_KEY": ,
+		"token": ,
+	}
+}

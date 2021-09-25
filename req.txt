@@ -1,0 +1,10 @@
+asyncio
+aiomysql
+Pillow
+praw
+disputils
+aiohttp
+discord.py
+youtube_dl
+youtube_search
+validators
